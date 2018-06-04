@@ -28,7 +28,7 @@ function validaCPF($cpf) {
     return true;
 }
 
-if(validaCPF("079.310.273-10")) {
+if(validaCPF("your cpf")) {
 	echo "CPF Válido";
 } else {
 	echo "CPF Inválido";
